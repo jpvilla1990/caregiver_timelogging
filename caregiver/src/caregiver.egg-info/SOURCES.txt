@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/caregiver/__init__.py
+src/caregiver/config.py
+src/caregiver/main.py
+src/caregiver.egg-info/PKG-INFO
+src/caregiver.egg-info/SOURCES.txt
+src/caregiver.egg-info/dependency_links.txt
+src/caregiver.egg-info/requires.txt
+src/caregiver.egg-info/top_level.txt
